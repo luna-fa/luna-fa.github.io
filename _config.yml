@@ -20,3 +20,8 @@ social_urls:
   twitter: 
   instagram: "https://www.instagram.com/lunafanana"
   linkedin: "https://es.linkedin.com/in/luna-farchakh-40b634128/"
+email_action: "https://formspree.io/xpzygvzz"
+email_field:
+  name: "name"
+  email: "_replyto"
+  message: "message"
