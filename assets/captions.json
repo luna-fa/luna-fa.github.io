@@ -2,5 +2,9 @@
   "example.jpg": {
     "name": "Example Title",
     "description": "Example description."
+  }, 
+  "ww1.jpg": {
+    "name": "optimism",
+    "description": "samples of waste plastic fruitnets."
   }
 }
