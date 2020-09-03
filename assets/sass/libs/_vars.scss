@@ -1,0 +1,76 @@
+// Misc.
+	$misc: (
+		z-index-base:		10000,
+		main-layout:		(
+			default:		(
+				rows:		2,
+				columns:	3,
+				pad:		0.5
+			),
+			xlarge:			(
+				rows:		2,
+				columns:	3,
+				pad:		0.5
+			),
+			large:			(
+				rows:		2,
+				columns:	3,
+				pad:		0.5
+			),
+			medium:			(
+				rows:		2,
+				columns:	3,
+				pad:		0.5
+			),
+			xsmall:			(
+				rows:		2,
+				columns:	1,
+				pad:		0.5
+			)
+		)
+	);
+
+// Duration.
+	$duration: (
+		transition:			0.1s,
+		header:				0.6s,
+		panel:				0.5s,
+		modal:				0.5s,
+		thumb:				0.15s
+	);
+
+// Size.
+	$size: (
+		element-height:		2.75em,
+		element-margin:		2em,
+		header:				4em
+	);
+
+// Font.
+	$font: (
+		family:				('Source Sans Pro', Helvetica, sans-serif),
+		family-fixed:		('Courier New', monospace),
+		weight:				300,
+		weight-bold:		300,
+		weight-extrabold:	400,
+		kerning:			0.025em,
+		kerning-alt:		0.1em
+	);
+
+// Palette.
+	$palette: (
+		bg:					#ffffff,
+		bg-alt:				#fec418,
+		bg-overlay:			transparentize(#dfdfdf, 0.75),
+		bg-overlay-alt:		transparentize(#dfdfdf, 0.5),
+		bg-ie-overlay:		transparentize(#dfdfdf, 0.45),
+		bg-ie-overlay-alt:	transparentize(#dfdfdf, 0.2),
+		fg:					#3f3f3f,
+		fg-bold:			#1f1f1f,
+		fg-medium:			#3f3f3f,
+		fg-light:			#9a770e,
+		border:				#fec418,
+		border-bg:			#fec418,
+		border-bg-alt:		#fec418,
+		accent1:			#bf9412
+	);

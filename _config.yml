@@ -1,0 +1,22 @@
+# Base configs
+baseurl: ""
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+
+# UI configs
+title: "Luna Farchakh"
+subtitle: "Design with an oriental touch"
+author: "Luna Farchakh"
+header:
+ title: "🌚"
+ subtitle: "Design with an oriental touch."
+footer:
+ name: "Hello! My name is Luna!"
+ bio: "I am a Lebanese designer experienced in interiorism, furniture design and visual communication. I love engaging with clients to find the design that charms them and suits their needs. Now I am focusing on sustainability while looking for new opportunities to grow."
+ portfolio: "Interested? Take a look at <a href=\"assets/LunaFarchakhPortfolio.pdf\">my portfolio</a> and <a href=\"assets/LunaFarchakhCV.pdf\">my CV</a>!"
+web_design: "Nur A.G. based on <a href=\"https://github.com/rampatra/photography\">Ram Patra's Photography</a>"
+social_urls:
+  facebook: 
+  twitter: 
+  instagram: "https://www.instagram.com/lunafanana"
+  linkedin: "https://es.linkedin.com/in/luna-farchakh-40b634128/"
